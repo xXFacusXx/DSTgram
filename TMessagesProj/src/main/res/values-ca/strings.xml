@@ -135,6 +135,7 @@
   <string name="OpenInBrowser">Obre al navegador</string>
   <string name="CopyUrl">Copia la URL</string>
   <string name="SendItems">Enviar %1$s</string>
+  <string name="OpenUrlAlert">¿Abrir %1$s?</string>
   <!--notification-->
   <string name="MessageLifetimeChanged">%1$s ha definit l\'autodestrucció en %2$s</string>
   <string name="MessageLifetimeChangedOutgoing">Heu definit l\'autodestrucció en %1$s</string>
@@ -547,6 +548,9 @@
   <string name="BotStatusCantRead">no té accés als missatges</string>
   <string name="BotInfoTitle">Què pot fer aquest bot?</string>
   <string name="BotStart">COMENÇAR</string>
+  <string name="BotUnblock">REINICIAR</string>
+  <string name="BotStop">Detener bot</string>
+  <string name="BotRestart">Reiniciar bot</string>
   <!--button titles-->
   <string name="Next">Endavant</string>
   <string name="Back">Enrere</string>
@@ -835,8 +839,8 @@
   <string name="formatterDay12H">h:mm a</string>
   <string name="formatDateAtTime">%1$s a les %2$s</string>
   <!--update text-->
-  <string name="updateText">DSTgram per Android a sigut actualitzada. Novetats a la versión 3.1.2:\n\n- Recerques recents\n- Manté premut sobre un adhesiu per obtenir una vista prèvia abans d\'enviar</string>
-  <string name="updateBuild">583</string>
+  <string name="updateText">DSTgram para Android ha sido actualizado. Noticias en versión 3.1.3.01:\n\n- Nueva sección de \'Ommunications C\' en la información del chat\n- Vista previa en la aplicación de c ommunications en fotos</string>
+  <string name="updateBuild">590</string>
   <!--Color Picker-->
   <string name="Themes" />
   <string name="dialog_color_picker" />
